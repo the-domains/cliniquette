@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cliniquette]]></title>
-        <description><![CDATA[cliniquette]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[cliniquette - från topp till tå.]]></title>
+        <description><![CDATA[cliniquette - från topp till tå.]]></description>
+        <link>https://thegrid.ai/cliniquette/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 23:17:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 23:31:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cliniquette/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Klinisk Tandblekning]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b2f6f80-2098-4fe3-a324-a90e16cf4028.jpg">]]></description>
-            <link>undefinedklinisk-tandblekning/index.html</link>
+            <link>https://thegrid.ai/cliniquette/klinisk-tandblekning/index.html</link>
             <guid isPermaLink="false">f59c5503-ff0d-46de-b848-1addbcdd388e</guid>
-            <pubDate>Sat, 30 Apr 2016 23:17:04 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 23:31:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,7 @@
 name: cliniquette
 favicon: null
-layout_spectrum: 0.4751016618683934
-typography_spectrum: 0.1743207445833832
+layout_spectrum: 1
+typography_spectrum: 0.9398
 cta:
   domain: null
   bucket: null

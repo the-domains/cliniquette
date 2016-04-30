@@ -4,8 +4,15 @@
         <description><![CDATA[cliniquette - från topp till tå.]]></description>
         <link>https://thegrid.ai/cliniquette/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 23:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 23:40:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cliniquette/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Medicinsk Fotvård</p>]]></description>
+            <link>https://thegrid.ai/cliniquette/medicinsk-fotvard/index.html</link>
+            <guid isPermaLink="false">6c32c9de-8ff3-4dc0-aff2-e60ac6be3eed</guid>
+            <pubDate>Sat, 30 Apr 2016 23:40:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Klinisk Tandblekning]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b2f6f80-2098-4fe3-a324-a90e16cf4028.jpg">]]></description>
